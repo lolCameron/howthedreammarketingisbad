@@ -6,3 +6,7 @@ get better ideas instead of a usb with baby pictures attached to slap braclet al
 # your mom must be dissapointed
 
 true
+
+# that usb has 0 capacity
+
+yes
