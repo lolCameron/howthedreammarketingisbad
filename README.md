@@ -10,3 +10,7 @@ true
 # that usb has 0 capacity
 
 yes
+
+# pedophiles
+
+dream is major cloog then zeurum exists
